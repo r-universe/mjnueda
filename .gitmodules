@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lpda"]
 	path = lpda
 	url = https://github.com/cran/lpda
-	shallow = true
-	registered = true
 [submodule "maSigPro"]
 	path = maSigPro
 	url = https://git.bioconductor.org/packages/maSigPro
-	shallow = true
-	registered = true
