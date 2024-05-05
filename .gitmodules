@@ -5,6 +5,3 @@
 [submodule "lpda"]
 	path = lpda
 	url = https://github.com/cran/lpda
-[submodule "maSigPro"]
-	path = maSigPro
-	url = https://git.bioconductor.org/packages/maSigPro
